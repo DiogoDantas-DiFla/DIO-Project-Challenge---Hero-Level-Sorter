@@ -1,4 +1,4 @@
-# DIO Project Challenge - Simulating a Bank Account Through the Terminal/Console
+# DIO Project Challenge - Hero Level Sorter
 
 This repository is a "Project Challenge" of the bootcamp "Potência Tech iFood - Programação do Zero" promoted by the courses and bootcamps website Digital Innovation One (DIO) with the aim of enabling students of this bootcamp to have a solid foundation in Programming Logic.
 
